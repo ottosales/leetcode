@@ -15,4 +15,6 @@ LeetCode Profile: https://leetcode.com/u/ottosls/
 |[350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|Easy|[easy/350.js](easy/350.js)|
 |[1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/)|Easy|[easy/1002.js](easy/1002.js)|
 |[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|Easy|[easy/1431.js](easy/1431.js)|
+|[2396. Strictly Palindromic Number](https://leetcode.com/problems/strictly-palindromic-number/)|Medium|[medium/2396.js](medium/2396.js)|
+|[2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)|Easy|[easy/2824.js](easy/2824.js)|
 |[3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/)|Easy|[easy/3042.js](easy/3042.js)|
